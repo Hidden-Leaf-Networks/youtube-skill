@@ -4,3 +4,6 @@ dist/
 *.tsbuildinfo
 .DS_Store
 coverage/
+
+# Internal scripts — Jira project setup, venture operations
+scripts/*.ts
